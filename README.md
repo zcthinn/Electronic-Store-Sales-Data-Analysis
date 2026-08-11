@@ -28,24 +28,12 @@ An exploratory data analysis of a full year of U.S. electronics store sales tran
 - **Visualization** — Matplotlib, Plotly Express
 - **Environment** — Jupyter Notebook
 
-## 📁 Repository Structure
-```
-Electronic-Store-Sales-Data-Analysis/
-├── notebooks/
-│   └── Electronic_Store_Sales_Analysis.ipynb   # Full analysis notebook
-├── data/                                        # (optional) raw monthly CSVs or link to source
-├── images/                                      # Exported chart screenshots for README
-└── README.md
-```
-
 ## Sample Visuals
-*(Add exported PNG screenshots of your key charts here once uploaded — e.g. Monthly Sales, Sales by City, Sales by Hour, Quantity vs. Price)*
 
-```markdown
 ![Monthly Sales](images/monthly_sales.png)
 ![Sales by City](images/sales_by_city.png)
 ![Sales by Hour](images/sales_by_hour.png)
-```
+
 
 ## Business Value
 These findings can directly inform:
@@ -53,5 +41,7 @@ These findings can directly inform:
 - **Marketing spend** — prioritize San Francisco, LA, and NYC markets; time ad campaigns around the 7 PM (and secondary 12 PM) order peak
 - **Bundling strategy** — pair high-volume, low-cost accessories (batteries, cables) with high-value electronics to lift average order value
 
-## Author
-Data Analytics Portfolio Project — demonstrating data cleaning, feature engineering, exploratory data analysis, and data visualization in Python.
+## Download
+https://github.com/zcthinn/Employee-Workforce-Analytics-SQL
+to explore interactively.
+
